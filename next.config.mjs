@@ -16,9 +16,13 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'otakuteca.com',
         port: '',
-        
-
-      }
+      },
+      {
+        protocol: 'https',
+        hostname: 'f005.backblazeb2.com',
+        port: '',
+        pathname: '/file/nextjsmanga-bb/manga_images/**',
+      },
       
     ],
     

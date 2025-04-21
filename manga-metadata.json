@@ -1,4 +1,6358 @@
 {
+  "boku-no-hero-academia": {
+    "1": {
+      "kaminofansub": {
+        "pageCount": 55
+      },
+      "masterpiece-scans": {
+        "pageCount": 54
+      }
+    },
+    "2": {
+      "kaminofansub": {
+        "pageCount": 27
+      },
+      "masterpiece-scans": {
+        "pageCount": 27
+      }
+    },
+    "3": {
+      "kaminofansub": {
+        "pageCount": 24
+      },
+      "masterpiece-scans": {
+        "pageCount": 24
+      }
+    },
+    "4": {
+      "kaminofansub": {
+        "pageCount": 21
+      },
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "5": {
+      "kaminofansub": {
+        "pageCount": 21
+      },
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "6": {
+      "kaminofansub": {
+        "pageCount": 21
+      },
+      "masterpiece-scans": {
+        "pageCount": 20
+      },
+      "sphere-scans": {
+        "pageCount": 21
+      }
+    },
+    "7": {
+      "kaminofansub": {
+        "pageCount": 20
+      },
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "8": {
+      "kaminofansub": {
+        "pageCount": 19
+      },
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "9": {
+      "compilations-uploaded": {
+        "pageCount": 23
+      },
+      "kaminofansub": {
+        "pageCount": 23
+      }
+    },
+    "10": {
+      "compilations-uploaded": {
+        "pageCount": 21
+      },
+      "kaminofansub": {
+        "pageCount": 20
+      }
+    },
+    "11": {
+      "compilations-uploaded": {
+        "pageCount": 21
+      },
+      "kaminofansub": {
+        "pageCount": 21
+      }
+    },
+    "12": {
+      "compilations-uploaded": {
+        "pageCount": 20
+      },
+      "kaminofansub": {
+        "pageCount": 21
+      }
+    },
+    "13": {
+      "compilations-uploaded": {
+        "pageCount": 21
+      },
+      "kaminofansub": {
+        "pageCount": 20
+      }
+    },
+    "14": {
+      "allen_uzumaki": {
+        "pageCount": 22
+      },
+      "kaminofansub": {
+        "pageCount": 23
+      }
+    },
+    "15": {
+      "compilations-uploaded": {
+        "pageCount": 21
+      },
+      "kaminofansub": {
+        "pageCount": 21
+      }
+    },
+    "16": {
+      "compilations-uploaded": {
+        "pageCount": 21
+      },
+      "kaminofansub": {
+        "pageCount": 21
+      }
+    },
+    "17": {
+      "compilations-uploaded": {
+        "pageCount": 20
+      },
+      "kaminofansub": {
+        "pageCount": 20
+      },
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "18": {
+      "kaminofansub": {
+        "pageCount": 18
+      },
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "19": {
+      "kaminofansub": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "20": {
+      "kaminofansub": {
+        "pageCount": 20
+      },
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "21": {
+      "kaminofansub": {
+        "pageCount": 20
+      },
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "22": {
+      "kaminofansub": {
+        "pageCount": 22
+      },
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "23": {
+      "kaminofansub": {
+        "pageCount": 21
+      },
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "24": {
+      "kaminofansub": {
+        "pageCount": 23
+      },
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "25": {
+      "kaminofansub": {
+        "pageCount": 22
+      },
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "26": {
+      "kaminofansub": {
+        "pageCount": 22
+      },
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "27": {
+      "kaminofansub": {
+        "pageCount": 23
+      },
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "28": {
+      "kaminofansub": {
+        "pageCount": 22
+      },
+      "mangafan": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "29": {
+      "kaminofansub": {
+        "pageCount": 24
+      },
+      "mangafan": {
+        "pageCount": 20
+      },
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "30": {
+      "kaminofansub": {
+        "pageCount": 21
+      },
+      "mangafan": {
+        "pageCount": 19
+      },
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "31": {
+      "kaminofansub": {
+        "pageCount": 23
+      },
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "32": {
+      "kaminofansub": {
+        "pageCount": 20
+      },
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "33": {
+      "kaminofansub": {
+        "pageCount": 21
+      },
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "34": {
+      "akagami-upload": {
+        "pageCount": 19
+      },
+      "masterpiece-scans": {
+        "pageCount": 19
+      },
+      "plot-twist-no-fansub": {
+        "pageCount": 20
+      }
+    },
+    "35": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "36": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "37": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "38": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "39": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "40": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "41": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "42": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "43": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "44": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "45": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "46": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "47": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "48": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "49": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      },
+      "nya": {
+        "pageCount": 20
+      }
+    },
+    "50": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "51": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "52": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "53": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "54": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "55": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "56": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "57": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "58": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "59": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "60": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      },
+      "only-lodrax": {
+        "pageCount": 20
+      }
+    },
+    "61": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      },
+      "only-lodrax": {
+        "pageCount": 19
+      }
+    },
+    "62": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "63": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "64": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "65": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "66": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "67": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "68": {
+      "masterpiece-scans": {
+        "pageCount": 22
+      }
+    },
+    "69": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "70": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "71": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "72": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "73": {
+      "masterpiece-scans": {
+        "pageCount": 23
+      }
+    },
+    "74": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "75": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "76": {
+      "masterpiece-scans": {
+        "pageCount": 23
+      }
+    },
+    "77": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "78": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "79": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "80": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "81": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "82": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "83": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "84": {
+      "masterpiece-scans": {
+        "pageCount": 27
+      }
+    },
+    "85": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "86": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "87": {
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "88": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "89": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "90": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "91": {
+      "masterpiece-scans": {
+        "pageCount": 22
+      }
+    },
+    "92": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "93": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "94": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "95": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "96": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "97": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "98": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "99": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "100": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "101": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "102": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "103": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "104": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "105": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "106": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "107": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "108": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "109": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "110": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "111": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "112": {
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "113": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "114": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "115": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "116": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "117": {
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "118": {
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "119": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "120": {
+      "joselo": {
+        "pageCount": 16
+      },
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "121": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "122": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "123": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "124": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "125": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "126": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "127": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "128": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "129": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "130": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "131": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "132": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "133": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "134": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "135": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "136": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "137": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "138": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "139": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "140": {
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "141": {
+      "fast-food-scan": {
+        "pageCount": 19
+      },
+      "masterpiece-scans": {
+        "pageCount": 17
+      },
+      "ragnarok-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "142": {
+      "fast-food-scan": {
+        "pageCount": 25
+      },
+      "masterpiece-scans": {
+        "pageCount": 22
+      },
+      "ragnarok-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "143": {
+      "fast-food-scan": {
+        "pageCount": 19
+      },
+      "masterpiece-scans": {
+        "pageCount": 18
+      },
+      "ragnarok-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "144": {
+      "masterpiece-scans": {
+        "pageCount": 14
+      }
+    },
+    "145": {
+      "masterpiece-scans": {
+        "pageCount": 13
+      }
+    },
+    "146": {
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "147": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "148": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      },
+      "ragnarok-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "149": {
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "150": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "151": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "152": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "153": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "154": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "155": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "156": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "157": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "158": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "159": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "160": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "161": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "162": {
+      "masterpiece-scans": {
+        "pageCount": 14
+      }
+    },
+    "163": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "164": {
+      "gabisaurio": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "165": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "166": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      },
+      "nice-fansub": {
+        "pageCount": 17
+      }
+    },
+    "167": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      },
+      "nice-fansub": {
+        "pageCount": 18
+      }
+    },
+    "168": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "169": {
+      "masterpiece-scans": {
+        "pageCount": 20
+      }
+    },
+    "170": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "171": {
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "172": {
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "173": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "174": {
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "175": {
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "176": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "177": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "178": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 20
+      },
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "179": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      },
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "180": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      },
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "181": {
+      "masterpiece-scans": {
+        "pageCount": 15
+      }
+    },
+    "182": {
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "183": {
+      "masterpiece-scans": {
+        "pageCount": 19
+      },
+      "yami-tenshi-no-fansublos-revolucionarios-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "184": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 20
+      },
+      "masterpiece-scans": {
+        "pageCount": 19
+      }
+    },
+    "185": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "186": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "187": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      },
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "188": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 14
+      },
+      "masterpiece-scans": {
+        "pageCount": 14
+      }
+    },
+    "189": {
+      "masterpiece-scans": {
+        "pageCount": 15
+      }
+    },
+    "190": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      },
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "191": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "192": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 21
+      },
+      "masterpiece-scans": {
+        "pageCount": 21
+      }
+    },
+    "193": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "194": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 14
+      },
+      "masterpiece-scans": {
+        "pageCount": 15
+      }
+    },
+    "195": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      },
+      "masterpiece-scans": {
+        "pageCount": 18
+      }
+    },
+    "196": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      },
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "197": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 17
+      }
+    },
+    "198": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 15
+      },
+      "masterpiece-scans": {
+        "pageCount": 15
+      }
+    },
+    "199": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 15
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 14
+      }
+    },
+    "200": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 13
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 12
+      }
+    },
+    "201": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 15
+      },
+      "masterpiece-scans": {
+        "pageCount": 14
+      }
+    },
+    "202": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 15
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 12
+      }
+    },
+    "203": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 14
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 13
+      }
+    },
+    "204": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 15
+      }
+    },
+    "205": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 16
+      }
+    },
+    "206": {
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 16
+      }
+    },
+    "207": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 16
+      }
+    },
+    "208": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 14
+      }
+    },
+    "209": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 15
+      }
+    },
+    "210": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 15
+      }
+    },
+    "211": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 15
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 12
+      }
+    },
+    "212": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 14
+      }
+    },
+    "213": {
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 15
+      }
+    },
+    "214": {
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 17
+      }
+    },
+    "215": {
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 14
+      }
+    },
+    "216": {
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 14
+      }
+    },
+    "217": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      },
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 16
+      }
+    },
+    "218": {
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 16
+      }
+    },
+    "219": {
+      "masterpiece-scanswhitelies-fansub": {
+        "pageCount": 15
+      }
+    },
+    "220": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      },
+      "masterpiece-scans": {
+        "pageCount": 16
+      }
+    },
+    "221": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      },
+      "masterpiece-scans": {
+        "pageCount": 14
+      }
+    },
+    "222": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 15
+      }
+    },
+    "223": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 15
+      }
+    },
+    "224": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      },
+      "masterpiece-scans": {
+        "pageCount": 14
+      }
+    },
+    "225": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 15
+      }
+    },
+    "226": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 15
+      }
+    },
+    "227": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      },
+      "masterpiece-scans": {
+        "pageCount": 15
+      }
+    },
+    "228": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      },
+      "masterpiece-scans": {
+        "pageCount": 14
+      }
+    },
+    "229": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 19
+      },
+      "masterpiece-scans": {
+        "pageCount": 17
+      }
+    },
+    "230": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "231": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "232": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "233": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "234": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "235": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "236": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "237": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "238": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 15
+      }
+    },
+    "239": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "240": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "241": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "242": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "243": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "244": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "245": {
+      "los-revolucionarios-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "246": {
+      "fire-formation-kasoku-suru": {
+        "pageCount": 18
+      }
+    },
+    "247": {
+      "fire-formation-kasoku-suru": {
+        "pageCount": 16
+      }
+    },
+    "248": {
+      "fire-formation-kasoku-suru": {
+        "pageCount": 16
+      }
+    },
+    "249": {
+      "fire-formation-kasoku-suru": {
+        "pageCount": 18
+      }
+    },
+    "250": {
+      "fire-formation-kasoku-suru": {
+        "pageCount": 15
+      }
+    },
+    "251": {
+      "fire-formation-kasoku-suru": {
+        "pageCount": 15
+      }
+    },
+    "252": {
+      "fire-formation-kasoku-suru": {
+        "pageCount": 16
+      }
+    },
+    "253": {
+      "odd": {
+        "pageCount": 14
+      }
+    },
+    "254": {
+      "odd": {
+        "pageCount": 16
+      }
+    },
+    "255": {
+      "odd": {
+        "pageCount": 15
+      }
+    },
+    "256": {
+      "odd": {
+        "pageCount": 16
+      }
+    },
+    "257": {
+      "odd": {
+        "pageCount": 18
+      }
+    },
+    "258": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "259": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "260": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "261": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "262": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "263": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "264": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      },
+      "the_11z-works": {
+        "pageCount": 17
+      }
+    },
+    "265": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "the_11z-works": {
+        "pageCount": 16
+      }
+    },
+    "266": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "267": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "268": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "269": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "270": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "271": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "272": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "273": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "274": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "275": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "276": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "277": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "278": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "279": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "280": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "281": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "282": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "283": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "284": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "285": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "286": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "287": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "288": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "289": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "290": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "291": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "292": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "293": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "294": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "295": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "296": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "297": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "298": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "299": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "300": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "301": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "302": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "303": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "304": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "305": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "306": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "307": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "308": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "309": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "310": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "311": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "312": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "313": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "314": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "315": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "316": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "317": {
+      "kn-translations": {
+        "pageCount": 16
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "solo-scan-tk": {
+        "pageCount": 15
+      }
+    },
+    "318": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "319": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "320": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "321": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "322": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "323": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "324": {
+      "grenald-scan": {
+        "pageCount": 16
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "325": {
+      "grenald-scan": {
+        "pageCount": 16
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "326": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "327": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "328": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "329": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "330": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "331": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "332": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "333": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "334": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "335": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "336": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "337": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "338": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "339": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "340": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "341": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      }
+    },
+    "342": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "343": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "344": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "345": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 14
+      },
+      "lobo-fans-no-fansub": {
+        "pageCount": 12
+      }
+    },
+    "346": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "lobo-fans-no-fansub": {
+        "pageCount": 16
+      }
+    },
+    "347": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      },
+      "lobo-fans-no-fansub": {
+        "pageCount": 14
+      }
+    },
+    "348": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 15
+      },
+      "lobo-fans-no-fansub": {
+        "pageCount": 14
+      }
+    },
+    "349": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "lobo-fans-no-fansub": {
+        "pageCount": 16
+      }
+    },
+    "350": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 20
+      },
+      "scan-latino": {
+        "pageCount": 19
+      }
+    },
+    "351": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "352": {
+      "el-club-del-otaku": {
+        "pageCount": 13
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 15
+      },
+      "ronin-fansub": {
+        "pageCount": 12
+      }
+    },
+    "353": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      },
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "354": {
+      "el-club-del-otaku": {
+        "pageCount": 16
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "355": {
+      "el-club-del-otaku": {
+        "pageCount": 15
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "356": {
+      "el-club-del-otaku": {
+        "pageCount": 15
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "ronin-fansub": {
+        "pageCount": 14
+      }
+    },
+    "357": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      },
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "358": {
+      "el-club-del-otaku": {
+        "pageCount": 15
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "ronin-fansub": {
+        "pageCount": 14
+      }
+    },
+    "359": {
+      "el-club-del-otaku": {
+        "pageCount": 16
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      },
+      "ronin-fansub": {
+        "pageCount": 18
+      }
+    },
+    "360": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      },
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "361": {
+      "el-club-del-otaku": {
+        "pageCount": 13
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 14
+      },
+      "ronin-fansub": {
+        "pageCount": 11
+      }
+    },
+    "362": {
+      "el-club-del-otaku": {
+        "pageCount": 18
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "363": {
+      "el-club-del-otaku": {
+        "pageCount": 14
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 15
+      },
+      "ronin-fansub": {
+        "pageCount": 12
+      }
+    },
+    "364": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "365": {
+      "el-club-del-otaku": {
+        "pageCount": 15
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 15
+      },
+      "ronin-fansub": {
+        "pageCount": 13
+      }
+    },
+    "366": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "367": {
+      "el-club-del-otaku": {
+        "pageCount": 19
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "ronin-fansub": {
+        "pageCount": 18
+      }
+    },
+    "368": {
+      "el-club-del-otaku": {
+        "pageCount": 16
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "369": {
+      "el-club-del-otaku": {
+        "pageCount": 18
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "370": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "371": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "lobo-fans-no-fansub": {
+        "pageCount": 17
+      },
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "372": {
+      "el-club-del-otaku": {
+        "pageCount": 16
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      },
+      "lobo-fans-no-fansub": {
+        "pageCount": 16
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "373": {
+      "el-club-del-otaku": {
+        "pageCount": 19
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "374": {
+      "el-club-del-otaku": {
+        "pageCount": 16
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 15
+      },
+      "ronin-fansub": {
+        "pageCount": 14
+      }
+    },
+    "375": {
+      "el-club-del-otaku": {
+        "pageCount": 18
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "376": {
+      "el-club-del-otaku": {
+        "pageCount": 12
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 11
+      },
+      "ronin-fansub": {
+        "pageCount": 10
+      }
+    },
+    "377": {
+      "el-club-del-otaku": {
+        "pageCount": 13
+      },
+      "ronin-fansub": {
+        "pageCount": 11
+      }
+    },
+    "378": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "379": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 15
+      },
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "380": {
+      "el-club-del-otaku": {
+        "pageCount": 19
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "381": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "382": {
+      "el-club-del-otaku": {
+        "pageCount": 17
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 16
+      },
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "383": {
+      "el-club-del-otaku": {
+        "pageCount": 19
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 18
+      },
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "384": {
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      },
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "385": {
+      "el-club-del-otaku": {
+        "pageCount": 20
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 19
+      },
+      "ronin-fansub": {
+        "pageCount": 18
+      }
+    },
+    "386": {
+      "el-club-del-otaku": {
+        "pageCount": 18
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "387": {
+      "el-club-del-otaku": {
+        "pageCount": 19
+      },
+      "la-quinta-hoja-scanlation": {
+        "pageCount": 17
+      },
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "388": {
+      "el-club-del-otaku": {
+        "pageCount": 14
+      },
+      "ronin-fansub": {
+        "pageCount": 12
+      }
+    },
+    "389": {
+      "el-club-del-otaku": {
+        "pageCount": 11
+      },
+      "ronin-fansub": {
+        "pageCount": 12
+      }
+    },
+    "390": {
+      "el-club-del-otaku": {
+        "pageCount": 15
+      },
+      "ronin-fansub": {
+        "pageCount": 13
+      }
+    },
+    "391": {
+      "el-club-del-otaku": {
+        "pageCount": 11
+      },
+      "ronin-fansub": {
+        "pageCount": 9
+      }
+    },
+    "392": {
+      "el-club-del-otaku": {
+        "pageCount": 16
+      },
+      "ronin-fansub": {
+        "pageCount": 14
+      }
+    },
+    "393": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "394": {
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "395": {
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "396": {
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "397": {
+      "ronin-fansub": {
+        "pageCount": 8
+      }
+    },
+    "398": {
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "399": {
+      "ronin-fansub": {
+        "pageCount": 15
+      }
+    },
+    "400": {
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "401": {
+      "ronin-fansub": {
+        "pageCount": 18
+      }
+    },
+    "402": {
+      "ronin-fansub": {
+        "pageCount": 18
+      }
+    },
+    "403": {
+      "ronin-fansub": {
+        "pageCount": 19
+      },
+      "vinlandcolor": {
+        "pageCount": 14
+      }
+    },
+    "404": {
+      "ronin-fansub": {
+        "pageCount": 12
+      }
+    },
+    "405": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "406": {
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "407": {
+      "ronin-fansub": {
+        "pageCount": 15
+      },
+      "vinlandcolor": {
+        "pageCount": 14
+      }
+    },
+    "408": {
+      "ronin-fansub": {
+        "pageCount": 14
+      }
+    },
+    "409": {
+      "ronin-fansub": {
+        "pageCount": 12
+      }
+    },
+    "410": {
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "411": {
+      "ronin-fansub": {
+        "pageCount": 14
+      }
+    },
+    "412": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "413": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "414": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "415": {
+      "ronin-fansub": {
+        "pageCount": 12
+      }
+    },
+    "416": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "417": {
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "418": {
+      "ronin-fansub": {
+        "pageCount": 14
+      }
+    },
+    "419": {
+      "ronin-fansub": {
+        "pageCount": 18
+      }
+    },
+    "420": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "421": {
+      "ronin-fansub": {
+        "pageCount": 14
+      }
+    },
+    "422": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "423": {
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "424": {
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "425": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "426": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "427": {
+      "ronin-fansub": {
+        "pageCount": 16
+      }
+    },
+    "428": {
+      "ronin-fansub": {
+        "pageCount": 17
+      }
+    },
+    "429": {
+      "ronin-fansub": {
+        "pageCount": 18
+      }
+    },
+    "430": {
+      "ronin-fansub": {
+        "pageCount": 20
+      }
+    },
+    "431": {
+      "ragnarok-valkyrie": {
+        "pageCount": 38
+      },
+      "ronin-fansub": {
+        "pageCount": 39
+      }
+    },
+    "3315": {}
+  },
+  "la-vida-despus-de-la-muerte": {
+    "1": {
+      "dinamita-translations": {
+        "pageCount": 56
+      },
+      "jabraz-scan": {
+        "pageCount": 56
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "theory-translations": {
+        "pageCount": 43
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "2": {
+      "dinamita-translations": {
+        "pageCount": 68
+      },
+      "jabraz-scan": {
+        "pageCount": 68
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "3": {
+      "dinamita-translations": {
+        "pageCount": 49
+      },
+      "jabraz-scan": {
+        "pageCount": 48
+      },
+      "samuraiscan": {
+        "pageCount": 13
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "4": {
+      "dinamita-translations": {
+        "pageCount": 62
+      },
+      "jabraz-scan": {
+        "pageCount": 61
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "5": {
+      "dinamita-translations": {
+        "pageCount": 71
+      },
+      "jabraz-scan": {
+        "pageCount": 69
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "6": {
+      "dinamita-translations": {
+        "pageCount": 65
+      },
+      "jabraz-scan": {
+        "pageCount": 60
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "7": {
+      "dinamita-translations": {
+        "pageCount": 68
+      },
+      "jabraz-scan": {
+        "pageCount": 69
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "8": {
+      "dinamita-translations": {
+        "pageCount": 54
+      },
+      "jabraz-scan": {
+        "pageCount": 54
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "9": {
+      "dinamita-translations": {
+        "pageCount": 57
+      },
+      "jabraz-scan": {
+        "pageCount": 58
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "10": {
+      "dinamita-translations": {
+        "pageCount": 63
+      },
+      "jabraz-scan": {
+        "pageCount": 63
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "11": {
+      "dinamita-translations": {
+        "pageCount": 66
+      },
+      "jabraz-scan": {
+        "pageCount": 66
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "12": {
+      "dinamita-translations": {
+        "pageCount": 63
+      },
+      "jabraz-scan": {
+        "pageCount": 64
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "13": {
+      "dinamita-translations": {
+        "pageCount": 67
+      },
+      "jabraz-scan": {
+        "pageCount": 67
+      },
+      "samuraiscan": {
+        "pageCount": 28
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "14": {
+      "dinamita-translations": {
+        "pageCount": 67
+      },
+      "jabraz-scan": {
+        "pageCount": 65
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "15": {
+      "dinamita-translations": {
+        "pageCount": 82
+      },
+      "jabraz-scan": {
+        "pageCount": 81
+      },
+      "samuraiscan": {
+        "pageCount": 32
+      },
+      "traducciones-amistosas": {
+        "pageCount": 57
+      }
+    },
+    "16": {
+      "dinamita-translations": {
+        "pageCount": 77
+      },
+      "jabraz-scan": {
+        "pageCount": 76
+      },
+      "samuraiscan": {
+        "pageCount": 26
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "17": {
+      "dinamita-translations": {
+        "pageCount": 17
+      },
+      "jabraz-scan": {
+        "pageCount": 14
+      },
+      "samuraiscan": {
+        "pageCount": 30
+      },
+      "traducciones-amistosas": {
+        "pageCount": 57
+      }
+    },
+    "18": {
+      "dinamita-translations": {
+        "pageCount": 80
+      },
+      "jabraz-scan": {
+        "pageCount": 79
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "19": {
+      "dinamita-translations": {
+        "pageCount": 68
+      },
+      "jabraz-scan": {
+        "pageCount": 69
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "20": {
+      "dinamita-translations": {
+        "pageCount": 62
+      },
+      "jabraz-scan": {
+        "pageCount": 63
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "21": {
+      "dinamita-translations": {
+        "pageCount": 63
+      },
+      "jabraz-scan": {
+        "pageCount": 63
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "22": {
+      "dinamita-translations": {
+        "pageCount": 53
+      },
+      "jabraz-scan": {
+        "pageCount": 53
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "23": {
+      "dinamita-translations": {
+        "pageCount": 58
+      },
+      "jabraz-scan": {
+        "pageCount": 59
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "24": {
+      "dinamita-translations": {
+        "pageCount": 58
+      },
+      "jabraz-scan": {
+        "pageCount": 58
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "25": {
+      "dinamita-translations": {
+        "pageCount": 51
+      },
+      "jabraz-scan": {
+        "pageCount": 51
+      },
+      "samuraiscan": {
+        "pageCount": 26
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "26": {
+      "jabraz-scan": {
+        "pageCount": 72
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "27": {
+      "jabraz-scan": {
+        "pageCount": 66
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "28": {
+      "jabraz-scan": {
+        "pageCount": 57
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "29": {
+      "jabraz-scan": {
+        "pageCount": 58
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "30": {
+      "jabraz-scan": {
+        "pageCount": 64
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "31": {
+      "jabraz-scan": {
+        "pageCount": 52
+      },
+      "samuraiscan": {
+        "pageCount": 16
+      }
+    },
+    "32": {
+      "jabraz-scan": {
+        "pageCount": 43
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "33": {
+      "jabraz-scan": {
+        "pageCount": 54
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "34": {
+      "jabraz-scan": {
+        "pageCount": 69
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "35": {
+      "jabraz-scan": {
+        "pageCount": 54
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "36": {
+      "jabraz-scan": {
+        "pageCount": 65
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "37": {
+      "jabraz-scan": {
+        "pageCount": 58
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "38": {
+      "jabraz-scan": {
+        "pageCount": 58
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "39": {
+      "jabraz-scan": {
+        "pageCount": 69
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "40": {
+      "jabraz-scan": {
+        "pageCount": 57
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "41": {
+      "jabraz-scan": {
+        "pageCount": 79
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "42": {
+      "jabraz-scan": {
+        "pageCount": 64
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "43": {
+      "jabraz-scan": {
+        "pageCount": 67
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "44": {
+      "jabraz-scan": {
+        "pageCount": 67
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "45": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 80
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "46": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 63
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      }
+    },
+    "47": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 35
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "48": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 30
+      },
+      "traducciones-amistosas": {
+        "pageCount": 58
+      }
+    },
+    "49": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 28
+      },
+      "traducciones-amistosas": {
+        "pageCount": 62
+      }
+    },
+    "50": {
+      "jabraz-scan": {
+        "pageCount": 26
+      },
+      "samuraiscan": {
+        "pageCount": 28
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "51": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "52": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "53": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 31
+      },
+      "traducciones-amistosas": {
+        "pageCount": 67
+      }
+    },
+    "54": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 27
+      },
+      "traducciones-amistosas": {
+        "pageCount": 67
+      }
+    },
+    "55": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 27
+      },
+      "traducciones-amistosas": {
+        "pageCount": 57
+      }
+    },
+    "56": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 62
+      }
+    },
+    "57": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 30
+      },
+      "traducciones-amistosas": {
+        "pageCount": 67
+      }
+    },
+    "58": {
+      "samuraiscan": {
+        "pageCount": 27
+      },
+      "traducciones-amistosas": {
+        "pageCount": 62
+      }
+    },
+    "59": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "60": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 83
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 67
+      }
+    },
+    "61": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 27
+      },
+      "samuraiscan": {
+        "pageCount": 27
+      },
+      "traducciones-amistosas": {
+        "pageCount": 57
+      }
+    },
+    "62": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 32
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "63": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 18
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 57
+      }
+    },
+    "64": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 20
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "65": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 16
+      },
+      "samuraiscan": {
+        "pageCount": 16
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "66": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 15
+      },
+      "samuraiscan": {
+        "pageCount": 27
+      },
+      "traducciones-amistosas": {
+        "pageCount": 57
+      }
+    },
+    "67": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 17
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "68": {
+      "samuraiscan": {
+        "pageCount": 23
+      }
+    },
+    "69": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 77
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "70": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 70
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "71": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 78
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "72": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 69
+      },
+      "samuraiscan": {
+        "pageCount": 32
+      },
+      "traducciones-amistosas": {
+        "pageCount": 47
+      }
+    },
+    "73": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 89
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 56
+      }
+    },
+    "74": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 13
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 41
+      }
+    },
+    "75": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 18
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 65
+      }
+    },
+    "76": {
+      "kidz-scan": {
+        "pageCount": 19
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 58
+      }
+    },
+    "77": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 14
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 41
+      }
+    },
+    "78": {
+      "kidz-scan": {
+        "pageCount": 15
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 41
+      }
+    },
+    "79": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 13
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 55
+      }
+    },
+    "80": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 19
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "81": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 16
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 29
+      }
+    },
+    "82": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 11
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 29
+      }
+    },
+    "83": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 11
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 30
+      }
+    },
+    "84": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 10
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 30
+      }
+    },
+    "85": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 20
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 30
+      }
+    },
+    "86": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 20
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 26
+      }
+    },
+    "87": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 12
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "88": {
+      "kidz-scan": {
+        "pageCount": 18
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "89": {
+      "kidz-scan": {
+        "pageCount": 18
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 30
+      }
+    },
+    "90": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 19
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 30
+      }
+    },
+    "91": {
+      "kidz-scan": {
+        "pageCount": 15
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 30
+      }
+    },
+    "92": {
+      "kidz-scan": {
+        "pageCount": 14
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "93": {
+      "kidz-scan": {
+        "pageCount": 13
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "94": {
+      "kidz-scan": {
+        "pageCount": 15
+      },
+      "samuraiscan": {
+        "pageCount": 16
+      },
+      "traducciones-amistosas": {
+        "pageCount": 29
+      }
+    },
+    "95": {
+      "kidz-scan": {
+        "pageCount": 19
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "96": {
+      "kidz-scan": {
+        "pageCount": 17
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 26
+      }
+    },
+    "97": {
+      "kidz-scan": {
+        "pageCount": 16
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "98": {
+      "kidz-scan": {
+        "pageCount": 18
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 33
+      }
+    },
+    "99": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 16
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "100": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 37
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 35
+      }
+    },
+    "101": {
+      "jabraz-scankidz-scan": {
+        "pageCount": 37
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 34
+      }
+    },
+    "102": {
+      "kidz-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 29
+      }
+    },
+    "103": {
+      "kidz-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 23
+      }
+    },
+    "104": {
+      "kidz-scan": {
+        "pageCount": 33
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 27
+      }
+    },
+    "105": {
+      "kidz-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 26
+      }
+    },
+    "106": {
+      "kidz-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "107": {
+      "kidz-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 26
+      }
+    },
+    "108": {
+      "kidz-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 27
+      }
+    },
+    "109": {
+      "kidz-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 26
+      }
+    },
+    "110": {
+      "kidz-scan": {
+        "pageCount": 23
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 23
+      }
+    },
+    "111": {
+      "kidz-scan": {
+        "pageCount": 29
+      },
+      "samuraiscan": {
+        "pageCount": 28
+      },
+      "traducciones-amistosas": {
+        "pageCount": 26
+      }
+    },
+    "112": {
+      "kidz-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 31
+      },
+      "traducciones-amistosas": {
+        "pageCount": 29
+      }
+    },
+    "113": {
+      "kidz-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 41
+      },
+      "traducciones-amistosas": {
+        "pageCount": 41
+      }
+    },
+    "114": {
+      "hada-scan": {
+        "pageCount": 25
+      },
+      "kidz-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 31
+      },
+      "traducciones-amistosas": {
+        "pageCount": 30
+      }
+    },
+    "115": {
+      "kidz-scan": {
+        "pageCount": 29
+      },
+      "samuraiscan": {
+        "pageCount": 31
+      },
+      "traducciones-amistosas": {
+        "pageCount": 30
+      }
+    },
+    "116": {
+      "kidz-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 39
+      },
+      "traducciones-amistosas": {
+        "pageCount": 38
+      }
+    },
+    "117": {
+      "kidz-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 42
+      },
+      "traducciones-amistosas": {
+        "pageCount": 41
+      }
+    },
+    "118": {
+      "kidz-scan": {
+        "pageCount": 35
+      },
+      "samuraiscan": {
+        "pageCount": 43
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "119": {
+      "kidz-scan": {
+        "pageCount": 33
+      },
+      "samuraiscan": {
+        "pageCount": 34
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "120": {
+      "kidz-scan": {
+        "pageCount": 39
+      },
+      "samuraiscan": {
+        "pageCount": 39
+      },
+      "traducciones-amistosas": {
+        "pageCount": 37
+      }
+    },
+    "121": {
+      "kidz-scan": {
+        "pageCount": 37
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 33
+      }
+    },
+    "122": {
+      "kidz-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 28
+      }
+    },
+    "123": {
+      "hada-scan": {
+        "pageCount": 33
+      },
+      "kidz-scan": {
+        "pageCount": 33
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 39
+      }
+    },
+    "124": {
+      "kidz-scan": {
+        "pageCount": 32
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 38
+      }
+    },
+    "125": {
+      "kidz-scan": {
+        "pageCount": 35
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 36
+      }
+    },
+    "126": {
+      "kidz-scan": {
+        "pageCount": 35
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "127": {
+      "kidz-scan": {
+        "pageCount": 34
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 53
+      }
+    },
+    "128": {
+      "kidz-scanhada-scan": {
+        "pageCount": 29
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 38
+      }
+    },
+    "129": {
+      "kidz-scanhada-scan": {
+        "pageCount": 20
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 33
+      }
+    },
+    "130": {
+      "kidz-scan": {
+        "pageCount": 23
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 25
+      }
+    },
+    "131": {
+      "kidz-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "132": {
+      "kidz-scan": {
+        "pageCount": 20
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 27
+      }
+    },
+    "133": {
+      "hada-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 33
+      }
+    },
+    "134": {
+      "kidz-scan": {
+        "pageCount": 23
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "135": {
+      "kidz-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 32
+      }
+    },
+    "136": {
+      "kidz-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 28
+      },
+      "traducciones-amistosas": {
+        "pageCount": 26
+      }
+    },
+    "137": {
+      "kidz-scan": {
+        "pageCount": 29
+      },
+      "samuraiscan": {
+        "pageCount": 29
+      },
+      "traducciones-amistosas": {
+        "pageCount": 28
+      }
+    },
+    "138": {
+      "kidz-scan": {
+        "pageCount": 19
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 28
+      }
+    },
+    "139": {
+      "kidz-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 24
+      }
+    },
+    "140": {
+      "kidz-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 49
+      }
+    },
+    "141": {
+      "kidz-scan": {
+        "pageCount": 29
+      },
+      "samuraiscan": {
+        "pageCount": 29
+      },
+      "traducciones-amistosas": {
+        "pageCount": 28
+      }
+    },
+    "142": {
+      "kidz-scan": {
+        "pageCount": 14
+      },
+      "samuraiscan": {
+        "pageCount": 14
+      },
+      "traducciones-amistosas": {
+        "pageCount": 28
+      }
+    },
+    "143": {
+      "kidz-scan": {
+        "pageCount": 19
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 125
+      }
+    },
+    "144": {
+      "kidz-scan": {
+        "pageCount": 16
+      },
+      "samuraiscan": {
+        "pageCount": 16
+      },
+      "traducciones-amistosas": {
+        "pageCount": 100
+      }
+    },
+    "145": {
+      "kidz-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 36
+      }
+    },
+    "146": {
+      "kidz-scan": {
+        "pageCount": 19
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "147": {
+      "kidz-scan": {
+        "pageCount": 29
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 48
+      }
+    },
+    "148": {
+      "kidz-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 41
+      }
+    },
+    "149": {
+      "kidz-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 39
+      }
+    },
+    "150": {
+      "kidz-scan": {
+        "pageCount": 26
+      },
+      "samuraiscan": {
+        "pageCount": 29
+      },
+      "traducciones-amistosas": {
+        "pageCount": 120
+      }
+    },
+    "151": {
+      "kidz-scan": {
+        "pageCount": 23
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 59
+      }
+    },
+    "152": {
+      "kidz-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 26
+      },
+      "traducciones-amistosas": {
+        "pageCount": 61
+      }
+    },
+    "153": {
+      "kidz-scan": {
+        "pageCount": 27
+      },
+      "samuraiscan": {
+        "pageCount": 31
+      },
+      "traducciones-amistosas": {
+        "pageCount": 67
+      }
+    },
+    "154": {
+      "kidz-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 28
+      },
+      "traducciones-amistosas": {
+        "pageCount": 60
+      }
+    },
+    "155": {
+      "kidz-scan": {
+        "pageCount": 26
+      },
+      "samuraiscan": {
+        "pageCount": 28
+      },
+      "traducciones-amistosas": {
+        "pageCount": 39
+      }
+    },
+    "156": {
+      "kidz-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "157": {
+      "kidz-scan": {
+        "pageCount": 29
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 45
+      }
+    },
+    "158": {
+      "kidz-scanhada-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 44
+      }
+    },
+    "159": {
+      "kidz-scanhada-scan": {
+        "pageCount": 32
+      },
+      "samuraiscan": {
+        "pageCount": 27
+      },
+      "traducciones-amistosas": {
+        "pageCount": 53
+      }
+    },
+    "160": {
+      "kidz-scanhada-scan": {
+        "pageCount": 26
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 46
+      }
+    },
+    "161": {
+      "kidz-scanhada-scan": {
+        "pageCount": 26
+      },
+      "samuraiscan": {
+        "pageCount": 26
+      },
+      "traducciones-amistosas": {
+        "pageCount": 64
+      }
+    },
+    "162": {
+      "hada-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 28
+      },
+      "traducciones-amistosas": {
+        "pageCount": 45
+      }
+    },
+    "163": {
+      "hada-scan": {
+        "pageCount": 33
+      },
+      "samuraiscan": {
+        "pageCount": 32
+      },
+      "traducciones-amistosas": {
+        "pageCount": 59
+      }
+    },
+    "164": {
+      "hada-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 29
+      },
+      "traducciones-amistosas": {
+        "pageCount": 49
+      }
+    },
+    "165": {
+      "hada-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 27
+      },
+      "traducciones-amistosas": {
+        "pageCount": 49
+      }
+    },
+    "166": {
+      "hada-scan": {
+        "pageCount": 27
+      },
+      "samuraiscan": {
+        "pageCount": 26
+      },
+      "traducciones-amistosas": {
+        "pageCount": 56
+      }
+    },
+    "167": {
+      "hada-scan": {
+        "pageCount": 35
+      },
+      "samuraiscan": {
+        "pageCount": 30
+      },
+      "traducciones-amistosas": {
+        "pageCount": 43
+      }
+    },
+    "168": {
+      "hada-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "169": {
+      "hada-scan": {
+        "pageCount": 32
+      },
+      "samuraiscan": {
+        "pageCount": 30
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "170": {
+      "hada-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 44
+      }
+    },
+    "171": {
+      "hada-scan": {
+        "pageCount": 29
+      },
+      "samuraiscan": {
+        "pageCount": 28
+      },
+      "traducciones-amistosas": {
+        "pageCount": 41
+      }
+    },
+    "172": {
+      "hada-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 26
+      },
+      "traducciones-amistosas": {
+        "pageCount": 38
+      }
+    },
+    "173": {
+      "hada-scan": {
+        "pageCount": 26
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 40
+      }
+    },
+    "174": {
+      "hada-scan": {
+        "pageCount": 27
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 42
+      }
+    },
+    "175": {
+      "hada-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 41
+      }
+    },
+    "176": {
+      "hada-scan": {
+        "pageCount": 32
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 63
+      }
+    },
+    "177": {
+      "hada-scan": {
+        "pageCount": 39
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 85
+      }
+    },
+    "178": {
+      "hada-scan": {
+        "pageCount": 32
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 84
+      }
+    },
+    "179": {
+      "hada-scan": {
+        "pageCount": 44
+      },
+      "samuraiscan": {
+        "pageCount": 31
+      },
+      "traducciones-amistosas": {
+        "pageCount": 115
+      }
+    },
+    "180": {
+      "hada-scan": {
+        "pageCount": 34
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 91
+      }
+    },
+    "181": {
+      "hada-scan": {
+        "pageCount": 30
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 73
+      }
+    },
+    "182": {
+      "hada-scan": {
+        "pageCount": 27
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 71
+      }
+    },
+    "183": {
+      "hada-scan": {
+        "pageCount": 33
+      },
+      "samuraiscan": {
+        "pageCount": 27
+      },
+      "traducciones-amistosas": {
+        "pageCount": 62
+      }
+    },
+    "184": {
+      "hada-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 73
+      }
+    },
+    "185": {
+      "hada-scan": {
+        "pageCount": 32
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 84
+      }
+    },
+    "186": {
+      "hada-scan": {
+        "pageCount": 35
+      },
+      "samuraiscan": {
+        "pageCount": 25
+      },
+      "traducciones-amistosas": {
+        "pageCount": 64
+      }
+    },
+    "187": {
+      "hada-scan": {
+        "pageCount": 30
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 83
+      }
+    },
+    "188": {
+      "hada-scan": {
+        "pageCount": 31
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 83
+      }
+    },
+    "189": {
+      "hada-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 65
+      }
+    },
+    "190": {
+      "hada-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 15
+      },
+      "traducciones-amistosas": {
+        "pageCount": 65
+      }
+    },
+    "191": {
+      "hada-scan": {
+        "pageCount": 33
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 67
+      }
+    },
+    "192": {
+      "hada-scan": {
+        "pageCount": 26
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 61
+      }
+    },
+    "193": {
+      "hada-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 26
+      },
+      "traducciones-amistosas": {
+        "pageCount": 66
+      }
+    },
+    "194": {
+      "hada-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "195": {
+      "hada-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 23
+      },
+      "traducciones-amistosas": {
+        "pageCount": 53
+      }
+    },
+    "196": {
+      "hada-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "197": {
+      "hada-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "198": {
+      "hada-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "199": {
+      "hada-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "200": {
+      "hada-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "201": {
+      "hada-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "202": {
+      "hada-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 56
+      }
+    },
+    "203": {
+      "hada-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 48
+      }
+    },
+    "204": {
+      "hada-scan": {
+        "pageCount": 27
+      },
+      "samuraiscan": {
+        "pageCount": 22
+      },
+      "traducciones-amistosas": {
+        "pageCount": 57
+      }
+    },
+    "205": {
+      "hada-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 52
+      }
+    },
+    "206": {
+      "hada-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 21
+      },
+      "traducciones-amistosas": {
+        "pageCount": 46
+      }
+    },
+    "207": {
+      "hada-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 20
+      },
+      "traducciones-amistosas": {
+        "pageCount": 54
+      }
+    },
+    "208": {
+      "hada-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 19
+      },
+      "traducciones-amistosas": {
+        "pageCount": 31
+      }
+    },
+    "209": {
+      "hada-scan": {
+        "pageCount": 21
+      },
+      "samuraiscan": {
+        "pageCount": 18
+      },
+      "traducciones-amistosas": {
+        "pageCount": 43
+      }
+    },
+    "210": {
+      "hada-scan": {
+        "pageCount": 27
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 59
+      }
+    },
+    "211": {
+      "hada-scan": {
+        "pageCount": 23
+      },
+      "samuraiscan": {
+        "pageCount": 16
+      },
+      "traducciones-amistosas": {
+        "pageCount": 51
+      }
+    },
+    "212": {
+      "hada-scan": {
+        "pageCount": 28
+      },
+      "samuraiscan": {
+        "pageCount": 24
+      },
+      "traducciones-amistosas": {
+        "pageCount": 63
+      }
+    },
+    "213": {
+      "hada-scan": {
+        "pageCount": 22
+      },
+      "samuraiscan": {
+        "pageCount": 17
+      },
+      "traducciones-amistosas": {
+        "pageCount": 50
+      }
+    },
+    "214": {
+      "hada-scan": {
+        "pageCount": 24
+      },
+      "samuraiscan": {
+        "pageCount": 16
+      }
+    },
+    "215": {
+      "hada-scan": {
+        "pageCount": 25
+      },
+      "samuraiscan": {
+        "pageCount": 16
+      }
+    }
+  },
+  "shonen-no-abyss": {
+    "1": {
+      "alter-scanlation": {
+        "pageCount": 52
+      },
+      "doragon-no-tensei": {
+        "pageCount": 53
+      },
+      "gda-scan": {
+        "pageCount": 55
+      }
+    },
+    "2": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 34
+      },
+      "doragon-no-tensei": {
+        "pageCount": 35
+      },
+      "gda-scan": {
+        "pageCount": 34
+      }
+    },
+    "3": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 31
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 32
+      }
+    },
+    "4": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "5": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 22
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "6": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 22
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "7": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 29
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 24
+      }
+    },
+    "8": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 20
+      }
+    },
+    "9": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "10": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 22
+      }
+    },
+    "11": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "12": {
+      "alter-scanlation": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 20
+      }
+    },
+    "13": {
+      "alter-scanlation": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "14": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "15": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 22
+      }
+    },
+    "16": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "17": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "18": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 23
+      }
+    },
+    "19": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 22
+      }
+    },
+    "20": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "21": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 23
+      }
+    },
+    "22": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 20
+      }
+    },
+    "23": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 22
+      }
+    },
+    "24": {
+      "gda-scan": {
+        "pageCount": 21
+      }
+    },
+    "25": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 23
+      }
+    },
+    "26": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 20
+      }
+    },
+    "27": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 25
+      }
+    },
+    "28": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 22
+      }
+    },
+    "29": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "30": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "31": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "32": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 22
+      }
+    },
+    "33": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "34": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "35": {
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 20
+      }
+    },
+    "36": {
+      "alter-scanlation": {
+        "pageCount": 22
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 24
+      }
+    },
+    "37": {
+      "alter-scanlation": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 22
+      }
+    },
+    "38": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "39": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 21
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 22
+      }
+    },
+    "40": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 20
+      }
+    },
+    "41": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "42": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 20
+      }
+    },
+    "43": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "44": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "45": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 23
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 23
+      }
+    },
+    "46": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 21
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "47": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 23
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 23
+      }
+    },
+    "48": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 21
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 18
+      }
+    },
+    "49": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 20
+      }
+    },
+    "50": {
+      "alter-scanlation": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 20
+      }
+    },
+    "51": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 21
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "52": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 21
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 19
+      }
+    },
+    "53": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 22
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 19
+      }
+    },
+    "54": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 21
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 19
+      }
+    },
+    "55": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 23
+      },
+      "gda-scandoragon-no-tensei": {
+        "pageCount": 21
+      }
+    },
+    "56": {
+      "alter-scanlationwhere-is-my-serotonin-scans": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 25
+      }
+    },
+    "57": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 26
+      },
+      "la-quinta-hoja-scanlationalter-scanlation": {
+        "pageCount": 24
+      }
+    },
+    "58": {
+      "alter-scanlation": {
+        "pageCount": 22
+      },
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 26
+      }
+    },
+    "59": {
+      "alter-scanlation": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 24
+      }
+    },
+    "60": {
+      "alter-scanlation": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 26
+      }
+    },
+    "61": {
+      "alter-scanlation": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 25
+      }
+    },
+    "62": {
+      "alter-scanlation": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 25
+      }
+    },
+    "63": {
+      "asuka-langley-translations": {
+        "pageCount": 20
+      },
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "64": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "65": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "66": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "67": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      },
+      "reversi-blog": {
+        "pageCount": 23
+      }
+    },
+    "68": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 23
+      },
+      "reversi-blog": {
+        "pageCount": 18
+      }
+    },
+    "69": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      },
+      "reversi-blog": {
+        "pageCount": 23
+      }
+    },
+    "70": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "71": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      },
+      "reversi-blog": {
+        "pageCount": 23
+      }
+    },
+    "72": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "73": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      }
+    },
+    "74": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "75": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "76": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "77": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "78": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      }
+    },
+    "79": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "80": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "81": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      }
+    },
+    "82": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      }
+    },
+    "83": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      }
+    },
+    "84": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "85": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "86": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "87": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      }
+    },
+    "88": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      }
+    },
+    "89": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      }
+    },
+    "90": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "91": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      }
+    },
+    "92": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      }
+    },
+    "93": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      }
+    },
+    "94": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "95": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "96": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      }
+    },
+    "97": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "98": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "99": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      }
+    },
+    "100": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      }
+    },
+    "101": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "102": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "103": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "104": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 26
+      }
+    },
+    "105": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      }
+    },
+    "106": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "107": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 28
+      }
+    },
+    "108": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "109": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "110": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 26
+      }
+    },
+    "111": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "112": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "113": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 26
+      }
+    },
+    "114": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "115": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 24
+      }
+    },
+    "116": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "117": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "118": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 30
+      }
+    },
+    "119": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "120": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "121": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "122": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "123": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "124": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "125": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "126": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "127": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "128": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "129": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "130": {
+      "bakaguya-scanlation": {
+        "pageCount": 25
+      }
+    },
+    "131": {
+      "el-culto-de-la-neko": {
+        "pageCount": 19
+      },
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 26
+      }
+    },
+    "132": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 23
+      }
+    },
+    "133": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "134": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "135": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "136": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "137": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "138": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "139": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 27
+      }
+    },
+    "140": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 29
+      }
+    },
+    "141": {
+      "gda-scandoragon-no-tenseibakaguya-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "142": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 20
+      }
+    },
+    "143": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "144": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 23
+      }
+    },
+    "145": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "146": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "147": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "148": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "149": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 21
+      },
+      "reversi-blog": {
+        "pageCount": 24
+      }
+    },
+    "150": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 21
+      },
+      "reversi-blog": {
+        "pageCount": 24
+      }
+    },
+    "151": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "152": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 21
+      }
+    },
+    "153": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "154": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "155": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 21
+      },
+      "reversi-blog": {
+        "pageCount": 24
+      }
+    },
+    "156": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blog": {
+        "pageCount": 22
+      }
+    },
+    "157": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "158": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "159": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 21
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 25
+      }
+    },
+    "160": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 22
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 25
+      }
+    },
+    "161": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "162": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 24
+      }
+    },
+    "163": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 21
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 25
+      }
+    },
+    "164": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 21
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 25
+      }
+    },
+    "165": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 20
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 24
+      }
+    },
+    "166": {
+      "bakaguya-scanlationtaikutsu": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "167": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "168": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 22
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 26
+      }
+    },
+    "169": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 18
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 22
+      }
+    },
+    "170": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "171": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "172": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 21
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 25
+      }
+    },
+    "173": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 21
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 24
+      }
+    },
+    "174": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "175": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "176": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "177": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "178": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 19
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "179": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 21
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 24
+      }
+    },
+    "180": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 20
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 23
+      }
+    },
+    "181": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 20
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 24
+      }
+    },
+    "182": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 20
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 24
+      }
+    },
+    "183": {
+      "bakaguya-scanlationtaikutsudoragon-no-tensei": {
+        "pageCount": 26
+      },
+      "reversi-blogmuslos-no-sekai": {
+        "pageCount": 41
+      }
+    }
+  },
   "solo-leveling": {
     "0": {
       "everlasting-knights-scanlation": {
@@ -2993,6 +9347,1347 @@
     "1791": {
       "knight-no-scanlation": {
         "pageCount": 6
+      }
+    }
+  },
+  "yofukashi-no-uta": {
+    "1": {
+      "el-club-de-askin": {
+        "pageCount": 41
+      },
+      "fstake-sukyan": {
+        "pageCount": 40
+      },
+      "ouroboros-scans": {
+        "pageCount": 40
+      },
+      "yofukashi-no-sekai": {
+        "pageCount": 39
+      }
+    },
+    "2": {
+      "el-club-de-askin": {
+        "pageCount": 25
+      },
+      "fstake-sukyan": {
+        "pageCount": 24
+      },
+      "ouroboros-scans": {
+        "pageCount": 25
+      },
+      "yofukashi-no-sekai": {
+        "pageCount": 25
+      }
+    },
+    "3": {
+      "el-club-de-askin": {
+        "pageCount": 27
+      },
+      "fstake-sukyan": {
+        "pageCount": 26
+      },
+      "ouroboros-scans": {
+        "pageCount": 27
+      },
+      "yofukashi-no-sekai": {
+        "pageCount": 27
+      }
+    },
+    "4": {
+      "el-club-de-askin": {
+        "pageCount": 24
+      },
+      "fstake-sukyan": {
+        "pageCount": 23
+      },
+      "ouroboros-scans": {
+        "pageCount": 22
+      }
+    },
+    "5": {
+      "el-club-de-askin": {
+        "pageCount": 24
+      },
+      "fstake-sukyan": {
+        "pageCount": 22
+      },
+      "ouroboros-scans": {
+        "pageCount": 22
+      }
+    },
+    "6": {
+      "el-club-de-askin": {
+        "pageCount": 20
+      },
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "7": {
+      "el-club-de-askin": {
+        "pageCount": 22
+      },
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 23
+      }
+    },
+    "8": {
+      "el-club-de-askin": {
+        "pageCount": 23
+      },
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 22
+      }
+    },
+    "9": {
+      "el-club-de-askin": {
+        "pageCount": 20
+      },
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "10": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "11": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "12": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "13": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "14": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 23
+      }
+    },
+    "15": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "16": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "17": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 22
+      }
+    },
+    "18": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 23
+      }
+    },
+    "19": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 24
+      }
+    },
+    "20": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "21": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 23
+      }
+    },
+    "22": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 24
+      }
+    },
+    "23": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "24": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 22
+      }
+    },
+    "25": {
+      "fstake-sukyan": {
+        "pageCount": 23
+      }
+    },
+    "26": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "27": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "28": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "29": {
+      "fstake-sukyan": {
+        "pageCount": 22
+      }
+    },
+    "30": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "31": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "32": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "33": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "34": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "35": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "36": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "37": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "38": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "39": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "40": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "41": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "42": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 22
+      }
+    },
+    "43": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 22
+      }
+    },
+    "44": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "45": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 22
+      }
+    },
+    "46": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 24
+      }
+    },
+    "47": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "48": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "49": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "50": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "51": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "52": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 24
+      }
+    },
+    "53": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "54": {
+      "ouroboros-scansfstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "55": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "56": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "57": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "58": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "59": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "60": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "61": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "62": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "63": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "64": {
+      "fstake-sukyan": {
+        "pageCount": 21
+      }
+    },
+    "65": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "66": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "67": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      }
+    },
+    "68": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "69": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "70": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "71": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "liar-raw": {
+        "pageCount": 19
+      }
+    },
+    "72": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "liar-raw": {
+        "pageCount": 20
+      }
+    },
+    "73": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "lalo-d.a.": {
+        "pageCount": 17
+      }
+    },
+    "74": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "75": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "76": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "77": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "78": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "79": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "80": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "81": {
+      "fstake-sukyan": {
+        "pageCount": 22
+      }
+    },
+    "82": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "83": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "84": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "85": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      }
+    },
+    "86": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "87": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "88": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "the-satanic-rabbit": {
+        "pageCount": 18
+      }
+    },
+    "89": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "90": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "91": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "92": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "93": {
+      "enjoyers-of-the-night": {
+        "pageCount": 17
+      },
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "song-of-the-night-walkers": {
+        "pageCount": 11
+      }
+    },
+    "94": {
+      "enjoyers-of-the-night": {
+        "pageCount": 18
+      },
+      "fstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "95": {
+      "enjoyers-of-the-night": {
+        "pageCount": 17
+      },
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "96": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "97": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "98": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "99": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "100": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "101": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "102": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "103": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "104": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "105": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "106": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "107": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      }
+    },
+    "108": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      }
+    },
+    "109": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "110": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "111": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "112": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "113": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "114": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "115": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "116": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 18
+      }
+    },
+    "117": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "118": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "119": {
+      "fstake-sukyan": {
+        "pageCount": 21
+      },
+      "sakoi-fansub": {
+        "pageCount": 22
+      }
+    },
+    "120": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "121": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "122": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "123": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "124": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "125": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "126": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "127": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "128": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "129": {
+      "fstake-sukyan": {
+        "pageCount": 24
+      },
+      "sakoi-fansub": {
+        "pageCount": 25
+      }
+    },
+    "130": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "131": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 17
+      }
+    },
+    "132": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "133": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "134": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      },
+      "sakoi-fansub": {
+        "pageCount": 18
+      }
+    },
+    "135": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "136": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "137": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "138": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "139": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "140": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "141": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "142": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      },
+      "sakoi-fansub": {
+        "pageCount": 18
+      }
+    },
+    "143": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "144": {
+      "fstake-sukyan": {
+        "pageCount": 22
+      },
+      "sakoi-fansub": {
+        "pageCount": 23
+      }
+    },
+    "145": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "146": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "147": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "148": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "149": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "150": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      }
+    },
+    "151": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "152": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "153": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "154": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "155": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "156": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "157": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "158": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 22
+      }
+    },
+    "159": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "160": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "161": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "162": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "163": {
+      "fstake-sukyan": {
+        "pageCount": 23
+      }
+    },
+    "164": {
+      "fstake-sukyan": {
+        "pageCount": 22
+      },
+      "sakoi-fansub": {
+        "pageCount": 23
+      }
+    },
+    "165": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "166": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "167": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "168": {
+      "fstake-sukyan": {
+        "pageCount": 23
+      },
+      "sakoi-fansub": {
+        "pageCount": 24
+      }
+    },
+    "169": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "170": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "171": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "172": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "173": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "174": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "175": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "176": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "177": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "178": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "179": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "180": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "181": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "182": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "183": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "184": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "185": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "186": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      },
+      "sakoi-fansub": {
+        "pageCount": 18
+      }
+    },
+    "187": {
+      "fstake-sukyan": {
+        "pageCount": 21
+      },
+      "sakoi-fansub": {
+        "pageCount": 22
+      }
+    },
+    "188": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      },
+      "sakoi-fansub": {
+        "pageCount": 18
+      }
+    },
+    "189": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "190": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 21
+      }
+    },
+    "191": {
+      "fstake-sukyan": {
+        "pageCount": 17
+      },
+      "sakoi-fansub": {
+        "pageCount": 18
+      }
+    },
+    "192": {
+      "fstake-sukyan": {
+        "pageCount": 20
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "193": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "194": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "195": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "196": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "197": {
+      "fstake-sukyan": {
+        "pageCount": 18
+      },
+      "sakoi-fansub": {
+        "pageCount": 19
+      }
+    },
+    "198": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      },
+      "sakoi-fansub": {
+        "pageCount": 20
+      }
+    },
+    "199": {
+      "fstake-sukyan": {
+        "pageCount": 19
+      }
+    },
+    "200": {
+      "fstake-sukyan": {
+        "pageCount": 26
+      },
+      "sakoi-fansub": {
+        "pageCount": 31
       }
     }
   }

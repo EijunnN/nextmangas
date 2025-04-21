@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${manga.titulo} | Manga Reader`,
+    title: `${manga.titulo} | NextManga`,
     description: manga.descripcion,
   }
 }
@@ -86,13 +86,7 @@ export default async function MangaPage({ params }: { params: Promise<{ slug: st
                 </div>
               </div>
 
-              <div className="space-y-3">
-                <h2 className="text-xl font-semibold tracking-tight flex items-center gap-2">
-                  <Layers className="h-5 w-5 text-primary" />
-                  Géneros
-                </h2>
-                
-              </div>
+              
             </div>
           </div>
         </div>
@@ -110,6 +104,11 @@ export default async function MangaPage({ params }: { params: Promise<{ slug: st
             <h2 className="text-2xl font-semibold tracking-tight">Sinopsis</h2>
             <p className="text-muted-foreground leading-relaxed">{manga.descripcion}</p>
             <div className="flex flex-wrap gap-2">
+            
+            <h2 className="text-xl font-semibold tracking-tight flex items-center gap-2">
+                  <Layers className="h-5 w-5 text-primary" />
+                  Géneros
+            </h2>
             {manga.generos.map((genero) => (
                     <GenreTag key={genero} genre={genero} />
                   ))}

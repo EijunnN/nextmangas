@@ -8,7 +8,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Manga Reader",
+  title: "NextManga",
   description: "Lee manga, manhwa y manhua sin necesidad de registro",
     generator: 'v0.dev'
 }

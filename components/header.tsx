@@ -16,7 +16,7 @@ export default function Header() {
         <div className="flex h-14 items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <BookOpen className="h-6 w-6 text-primary" />
-            <span className="font-bold text-xl tracking-tight">MangaReader</span>
+            <span className="font-bold text-xl tracking-tight">NextManga</span>
           </Link>
 
           <nav className="flex items-center gap-1">
