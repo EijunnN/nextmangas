@@ -5,6 +5,8 @@ export interface Manga {
   descripcion: string
   generos: string[]
   estado: string
+  esNuevo?: boolean
+  esPopular?: boolean
   capitulos: Chapter[]
 }
 

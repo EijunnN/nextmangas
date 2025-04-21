@@ -108,10 +108,40 @@ export default async function ChapterPage({
       </div>
 
       <Reader images={images} readingMode={readingMode} />
+
+      {/* Botones flotantes de navegación de capítulo */}
+      <div className="fixed bottom-6 left-0 w-full flex justify-between px-6 pointer-events-none z-50">
+        {prevChapter && (
+          <Link
+            href={`/manga/${slug}/${prevChapter.numero}/${encodeURIComponent(
+              prevChapter.scanlations[0]?.nombre
+                .toLowerCase()
+                .replace(/[^\w\s-]/g, "")
+                .replace(/\s+/g, "-") || ""
+            )}`}
+            className="pointer-events-auto flex items-center gap-2 bg-[#18181b] text-[#a3e635] hover:bg-[#23272f] transition-colors rounded-full shadow-lg px-6 py-4 text-lg font-bold"
+            style={{ minWidth: 56, minHeight: 56 }}
+          >
+            <ChevronLeft className="h-6 w-6" />
+            Anterior
+          </Link>
+        )}
+        {nextChapter && (
+          <Link
+            href={`/manga/${slug}/${nextChapter.numero}/${encodeURIComponent(
+              nextChapter.scanlations[0]?.nombre
+                .toLowerCase()
+                .replace(/[^\w\s-]/g, "")
+                .replace(/\s+/g, "-") || ""
+            )}`}
+            className="pointer-events-auto flex items-center gap-2 bg-[#18181b] text-[#38bdf8] hover:bg-[#23272f] transition-colors rounded-full shadow-lg px-6 py-4 text-lg font-bold ml-auto"
+            style={{ minWidth: 56, minHeight: 56 }}
+          >
+            Siguiente
+            <ChevronLeft className="h-6 w-6 rotate-180" />
+          </Link>
+        )}
+      </div>
     </div>
   )
 }
-
-
-
-

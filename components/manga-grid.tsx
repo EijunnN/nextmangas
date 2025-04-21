@@ -39,15 +39,48 @@ function MangaCard({ manga }: { manga: Manga }) {
         />
         <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
 
-        <Badge variant="secondary" className="absolute top-2 right-2 text-xs font-normal">
-          {seriesType}
-        </Badge>
+        {/* Badges visuales y modernos */}
+        <div className="absolute top-2 right-2 flex flex-col items-end gap-2 z-10">
+          {/* Tipo de serie */}
+          <Badge
+            className="flex items-center gap-1 bg-[#23272f] text-[#38bdf8] rounded-full px-3 py-1 text-xs font-semibold shadow-md"
+          >
+            {seriesType === "Manga" && <span className="inline-block w-2 h-2 bg-[#38bdf8] rounded-full mr-1" />}
+            {seriesType === "Manhwa" && <span className="inline-block w-2 h-2 bg-[#a3e635] rounded-full mr-1" />}
+            {seriesType === "Manhua" && <span className="inline-block w-2 h-2 bg-[#f472b6] rounded-full mr-1" />}
+            {seriesType}
+          </Badge>
+          {/* Badge NUEVO */}
+          {manga.esNuevo && (
+            <Badge className="flex items-center gap-1 bg-[#a21caf] text-[#f472b6] rounded-full px-3 py-1 text-xs font-semibold shadow-md animate-pulse">
+              <span className="inline-block w-2 h-2 bg-[#f472b6] rounded-full mr-1" />
+              Nuevo
+            </Badge>
+          )}
+          {/* Badge POPULAR */}
+          {manga.esPopular && (
+            <Badge className="flex items-center gap-1 bg-[#18181b] text-[#facc15] rounded-full px-3 py-1 text-xs font-semibold shadow-md">
+              <span className="inline-block w-2 h-2 bg-[#facc15] rounded-full mr-1" />
+              Popular
+            </Badge>
+          )}
+        </div>
 
+        {/* Badge de estado (Finalizado, En emisión, etc.) */}
         {manga.estado && (
           <Badge
-            variant="outline"
-            className="absolute bottom-2 left-2 text-xs font-normal bg-background/50 backdrop-blur-sm"
+            className={`absolute bottom-2 left-2 text-xs font-semibold rounded-full px-3 py-1 shadow-md ${
+              manga.estado === "Finalizado"
+                ? "bg-[#23272f] text-[#a3e635]"
+                : "bg-[#23272f] text-[#38bdf8]"
+            }`}
           >
+            {manga.estado === "Finalizado" && (
+              <span className="inline-block w-2 h-2 bg-[#a3e635] rounded-full mr-1" />
+            )}
+            {manga.estado !== "Finalizado" && (
+              <span className="inline-block w-2 h-2 bg-[#38bdf8] rounded-full mr-1" />
+            )}
             {manga.estado}
           </Badge>
         )}
