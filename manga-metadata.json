@@ -17577,5 +17577,711 @@
         "pageCount": 49
       }
     }
+  },
+  "jigokuraku": {
+    "1": {
+      "chou-tensei-scanlation": {
+        "pageCount": 65
+      }
+    },
+    "2": {
+      "chou-tensei-scanlation": {
+        "pageCount": 54
+      }
+    },
+    "3": {
+      "chou-tensei-scanlation": {
+        "pageCount": 24
+      }
+    },
+    "4": {
+      "chou-tensei-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "5": {
+      "chou-tensei-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "6": {
+      "chou-tensei-scanlation": {
+        "pageCount": 16
+      }
+    },
+    "7": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "8": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "9": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "10": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "11": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "12": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "13": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "14": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 21
+      }
+    },
+    "15": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 19
+      }
+    },
+    "16": {
+      "ragnaroschou-tensei-scanlation": {
+        "pageCount": 17
+      }
+    },
+    "17": {
+      "vagancia-scanlation": {
+        "pageCount": 20
+      }
+    },
+    "18": {
+      "vagancia-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "19": {
+      "vagancia-scanlation": {
+        "pageCount": 23
+      }
+    },
+    "20": {
+      "vagancia-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "21": {
+      "vagancia-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "22": {
+      "vagancia-scanlation": {
+        "pageCount": 22
+      }
+    },
+    "23": {
+      "vagancia-scanlation": {
+        "pageCount": 24
+      }
+    },
+    "24": {
+      "vagancia-scanlation": {
+        "pageCount": 23
+      }
+    },
+    "25": {
+      "vagancia-scanlation": {
+        "pageCount": 24
+      }
+    },
+    "26": {
+      "ramen-y-pancake": {
+        "pageCount": 18
+      }
+    },
+    "27": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "28": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "29": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "30": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "31": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "32": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "33": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "34": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "35": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "36": {
+      "ramen-y-pancake": {
+        "pageCount": 17
+      }
+    },
+    "37": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "38": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "39": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "40": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "41": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "42": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "43": {
+      "ramen-y-pancake": {
+        "pageCount": 19
+      }
+    },
+    "44": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "45": {
+      "ramen-y-pancake": {
+        "pageCount": 19
+      }
+    },
+    "46": {
+      "ramen-y-pancake": {
+        "pageCount": 19
+      }
+    },
+    "47": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "48": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "49": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "50": {
+      "ramen-y-pancake": {
+        "pageCount": 20
+      }
+    },
+    "51": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "52": {
+      "ramen-y-pancake": {
+        "pageCount": 19
+      }
+    },
+    "53": {
+      "ramen-y-pancake": {
+        "pageCount": 24
+      }
+    },
+    "54": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "55": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "56": {
+      "ramen-y-pancake": {
+        "pageCount": 20
+      }
+    },
+    "57": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "58": {
+      "ramen-y-pancake": {
+        "pageCount": 24
+      }
+    },
+    "59": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "60": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "61": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "62": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "63": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "64": {
+      "ramen-y-pancake": {
+        "pageCount": 27
+      }
+    },
+    "65": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "66": {
+      "ramen-y-pancake": {
+        "pageCount": 25
+      }
+    },
+    "67": {
+      "ramen-y-pancake": {
+        "pageCount": 34
+      }
+    },
+    "68": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "69": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "70": {
+      "ramen-y-pancake": {
+        "pageCount": 26
+      }
+    },
+    "71": {
+      "ramen-y-pancake": {
+        "pageCount": 24
+      }
+    },
+    "72": {
+      "ramen-y-pancake": {
+        "pageCount": 24
+      }
+    },
+    "73": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "74": {
+      "ramen-y-pancake": {
+        "pageCount": 20
+      }
+    },
+    "75": {
+      "ramen-y-pancake": {
+        "pageCount": 18
+      }
+    },
+    "76": {
+      "enfloo": {
+        "pageCount": 17
+      },
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "77": {
+      "enfloo": {
+        "pageCount": 20
+      },
+      "ramen-y-pancake": {
+        "pageCount": 29
+      }
+    },
+    "78": {
+      "enfloo": {
+        "pageCount": 18
+      },
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "79": {
+      "enfloo": {
+        "pageCount": 25
+      },
+      "ramen-y-pancake": {
+        "pageCount": 27
+      }
+    },
+    "80": {
+      "enfloo": {
+        "pageCount": 22
+      },
+      "ramen-y-pancake": {
+        "pageCount": 25
+      }
+    },
+    "81": {
+      "enfloo": {
+        "pageCount": 20
+      },
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "82": {
+      "enfloo": {
+        "pageCount": 20
+      },
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "83": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "84": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "85": {
+      "ramen-y-pancake": {
+        "pageCount": 25
+      }
+    },
+    "86": {
+      "ramen-y-pancake": {
+        "pageCount": 26
+      }
+    },
+    "87": {
+      "ramen-y-pancake": {
+        "pageCount": 29
+      }
+    },
+    "88": {
+      "ramen-y-pancake": {
+        "pageCount": 19
+      }
+    },
+    "89": {
+      "ramen-y-pancake": {
+        "pageCount": 24
+      }
+    },
+    "90": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "91": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "92": {
+      "ramen-y-pancake": {
+        "pageCount": 24
+      }
+    },
+    "93": {
+      "ramen-y-pancake": {
+        "pageCount": 23
+      }
+    },
+    "94": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "95": {
+      "ramen-y-pancake": {
+        "pageCount": 19
+      }
+    },
+    "96": {
+      "ramen-y-pancake": {
+        "pageCount": 28
+      }
+    },
+    "97": {
+      "ramen-y-pancake": {
+        "pageCount": 26
+      }
+    },
+    "98": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "99": {
+      "ramen-y-pancake": {
+        "pageCount": 21
+      }
+    },
+    "100": {
+      "ramen-y-pancake": {
+        "pageCount": 24
+      }
+    },
+    "101": {
+      "ramen-y-pancake": {
+        "pageCount": 22
+      }
+    },
+    "102": {
+      "norigatoscan": {
+        "pageCount": 21
+      }
+    },
+    "103": {
+      "manga-dealer-scanlation": {
+        "pageCount": 21
+      },
+      "norigatoscan": {
+        "pageCount": 21
+      }
+    },
+    "104": {
+      "manga-dealer-scanlation": {
+        "pageCount": 23
+      },
+      "norigatoscanleigh-scan": {
+        "pageCount": 24
+      }
+    },
+    "105": {
+      "manga-dealer-scanlation": {
+        "pageCount": 21
+      },
+      "norigatoscanleigh-scan": {
+        "pageCount": 22
+      }
+    },
+    "106": {
+      "manga-dealer-scanlation": {
+        "pageCount": 21
+      },
+      "norigatoscanasuka-langley-translations": {
+        "pageCount": 22
+      }
+    },
+    "107": {
+      "manga-dealer-scanlation": {
+        "pageCount": 23
+      },
+      "norigatoscanasuka-langley-translations": {
+        "pageCount": 24
+      }
+    },
+    "108": {
+      "manga-dealer-scanlation": {
+        "pageCount": 20
+      },
+      "norigatoscanasuka-langley-translations": {
+        "pageCount": 21
+      }
+    },
+    "109": {
+      "jppp": {
+        "pageCount": 19
+      },
+      "kang-scan": {
+        "pageCount": 21
+      },
+      "manga-dealer-scanlation": {
+        "pageCount": 21
+      },
+      "norigatoscanseventy-seven-scanlation": {
+        "pageCount": 20
+      },
+      "partesfaltantes": {
+        "pageCount": 19
+      }
+    },
+    "110": {
+      "norigatoscanseventy-seven-scanlation": {
+        "pageCount": 22
+      },
+      "partesfaltantes": {
+        "pageCount": 21
+      }
+    },
+    "111": {
+      "norigatoscanseventy-seven-scanlationasuka-langley-translations": {
+        "pageCount": 22
+      },
+      "partesfaltantes": {
+        "pageCount": 21
+      }
+    },
+    "112": {
+      "norigatoscanseventy-seven-scanlation": {
+        "pageCount": 18
+      },
+      "partesfaltantes": {
+        "pageCount": 17
+      }
+    },
+    "113": {
+      "partesfaltantes": {
+        "pageCount": 19
+      }
+    },
+    "114": {
+      "partesfaltantes": {
+        "pageCount": 19
+      }
+    },
+    "115": {
+      "partesfaltantes": {
+        "pageCount": 20
+      }
+    },
+    "116": {
+      "partesfaltantes": {
+        "pageCount": 17
+      }
+    },
+    "117": {
+      "partesfaltantes": {
+        "pageCount": 26
+      }
+    },
+    "118": {
+      "zero-two-scan": {
+        "pageCount": 21
+      }
+    },
+    "119": {
+      "red-moon-translation": {
+        "pageCount": 20
+      },
+      "sorairo-broken-no-fansub": {
+        "pageCount": 20
+      }
+    },
+    "120": {
+      "red-moon-translation": {
+        "pageCount": 20
+      },
+      "sorairo-broken-no-fansub": {
+        "pageCount": 22
+      }
+    },
+    "121": {
+      "red-moon-translation": {
+        "pageCount": 20
+      },
+      "sorairo-broken-no-fansub": {
+        "pageCount": 20
+      }
+    },
+    "122": {
+      "sorairo-broken-no-fansub": {
+        "pageCount": 22
+      }
+    },
+    "123": {
+      "sorairo-broken-no-fansub": {
+        "pageCount": 17
+      }
+    },
+    "124": {
+      "sorairo-broken-no-fansub": {
+        "pageCount": 23
+      }
+    },
+    "125": {
+      "sorairo-broken-no-fansub": {
+        "pageCount": 15
+      }
+    },
+    "126": {
+      "sorairo-broken-no-fansub": {
+        "pageCount": 23
+      }
+    },
+    "127": {
+      "sorairo-broken-no-fansub": {
+        "pageCount": 19
+      }
+    }
   }
 }
