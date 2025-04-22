@@ -25,8 +25,9 @@ const nextConfig = {
       },
       
     ],
-    
+    unoptimized: true, // Desactiva la optimización de imágenes para dominios externos
   },
+  
 }
 
 export default nextConfig;
