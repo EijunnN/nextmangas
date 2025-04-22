@@ -1,5 +1,6 @@
 import type React from "react"
 import type { Metadata } from "next"
+import { Analytics } from "@vercel/analytics/react"
 import { Space_Grotesk } from "next/font/google"
 import "./globals.css"
 import Header from "@/components/header"
@@ -24,10 +25,13 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
           <div className="min-h-screen bg-background text-foreground flex flex-col">
             <Header />
-            <main className="flex-1">{children}</main>
+            <main className="flex-1">{children}
+            <Analytics />
+            </main>
           </div>
         </ThemeProvider>
       </body>
+      
     </html>
   )
 }
